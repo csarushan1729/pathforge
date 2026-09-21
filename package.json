@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "CNC G-code toolpath simulator — parse, play, and inspect mill paths in 3D.",
+  "description": "CNC G-code toolpath simulator \u2014 parse, play, and inspect mill paths in 3D.",
   "author": "Shreehitha Arushan",
   "license": "MIT",
   "scripts": {
